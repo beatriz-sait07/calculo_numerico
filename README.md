@@ -1,1 +1,1 @@
-# calculo_numerico
+# calculo_numerico( c )
